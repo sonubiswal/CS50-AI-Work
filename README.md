@@ -214,7 +214,7 @@ How the course's core ideas map onto the code in this repository:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git   # TODO: replace with your repo URL
+git clone [https://github.com/sonubiswal/CS50-AI-Work.git]  # TODO: replace with your repo URL
 cd <your-repo>
 
 # 2. Create and activate a virtual environment
@@ -307,7 +307,7 @@ If you are currently taking CS50 AI, please follow the course's [Academic Honest
 
 **If this repository helped you, consider giving it a star — it means a lot.**
 
-[![Star this repo](https://img.shields.io/badge/%E2%AD%90_Star-This%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<your-username>/<your-repo>) <!-- TODO: replace with your repo URL -->
+[![Star this repo](https://img.shields.io/badge/%E2%AD%90_Star-This%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sonubiswal/CS50-AI-Work]) <!-- TODO: replace with your repo URL -->
 
 Made with 🧠 and ☕ · **12 projects · 6 pillars · 1 journey**
 

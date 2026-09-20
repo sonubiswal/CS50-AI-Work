@@ -1,0 +1,28 @@
+# Virtual environments
+tf_env/
+venv/
+env/
+*/tf_env/
+*/venv/
+*/env/
+
+# Large datasets
+gtsrb/
+*/gtsrb/
+*.zip
+
+# Trained models
+*.h5
+*.keras
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store

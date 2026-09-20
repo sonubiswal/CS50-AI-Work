@@ -14,7 +14,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE) <!-- TODO: add a LICENSE file, or remove this badge -->
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE) 
 [![Status](https://img.shields.io/badge/Projects-12%20%2F%2012-success?style=for-the-badge)](#-projects-at-a-glance)
 
 [Overview](#-overview) · [Projects](#-projects-at-a-glance) · [Highlights](#-highlighted-projects) · [Concepts](#-concept--project-map) · [Getting Started](#-getting-started) · [Structure](#-repository-structure) · [Certificate](#-certificate) · [Honesty](#-academic-honesty)
@@ -214,8 +214,8 @@ How the course's core ideas map onto the code in this repository:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/sonubiswal/CS50-AI-Work.git]  # TODO: replace with your repo URL
-cd <your-repo>
+git clone [https://github.com/sonubiswal/CS50-AI-Work.git]  
+
 
 # 2. Create and activate a virtual environment
 python -m venv venv
@@ -287,9 +287,6 @@ Each folder contains the project source, its own `README.md`, and (where applica
 **CS50's Introduction to Artificial Intelligence with Python**
 Harvard University · Completed **2026**
 
-<!-- TODO: replace with the URL of your verified certificate
-![Certificate](CERTIFICATE_URL_TODO)
--->
 
 ---
 
@@ -307,8 +304,7 @@ If you are currently taking CS50 AI, please follow the course's [Academic Honest
 
 **If this repository helped you, consider giving it a star — it means a lot.**
 
-[![Star this repo](https://img.shields.io/badge/%E2%AD%90_Star-This%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sonubiswal/CS50-AI-Work]) <!-- TODO: replace with your repo URL -->
-
+[![Star this repo](https://img.shields.io/badge/%E2%AD%90_Star-This%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sonubiswal/CS50-AI-Work]) 
 Made with 🧠 and ☕ · **12 projects · 6 pillars · 1 journey**
 
 </div>
